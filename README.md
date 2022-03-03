@@ -1,0 +1,2 @@
+# typescriptArchitectureShowCase
+typescriptArchitectureShowCase
